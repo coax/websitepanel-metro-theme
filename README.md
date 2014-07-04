@@ -36,7 +36,7 @@ Donate
 
 Don't worry, Metro theme will always be free - but I do need your support in order to continue to develop it! Thank you :)
 
-[![PayPayl donate button](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=WNPTPVJ6QK8H8&lc=HR&item_name=Donation%20to%20developer&currency_code=USD&amount=5%2e00)
+[![PayPal donate button](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=WNPTPVJ6QK8H8&lc=HR&item_name=Donation%20to%20developer&currency_code=USD&amount=5%2e00)
 
 Copyright?
 -----
@@ -44,4 +44,4 @@ Theme author http://www.coax.hr
 
 Icons used https://www.behance.net/gallery/Simple-Line-Icons-(Free-PSD-Webfont)/11391127
 
-Released under (CC BY-NC-SA 3.0 license http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Released under CC BY-NC-SA 3.0 license [![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
