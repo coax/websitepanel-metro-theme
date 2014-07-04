@@ -3,6 +3,12 @@ websitepanel-metro-theme
 
 Metro theme for [WebsitePanel 2.x](http://www.websitepanel.net/) - an open source IIS Control Panel for Hosting providers.
 
+Screenshots
+-----
+![](http://img.hr/aaft)
+![](http://img.hr/aafu)
+*uploaded with http://img.hr - the simplest image uploader ever!
+
 Changelog
 -----
 Version 0.5 (04.07.2014.)
