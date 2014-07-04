@@ -41,5 +41,7 @@ Don't worry, Metro theme will always be free - but I do need your support in ord
 Copyright?
 -----
 Theme author http://www.coax.hr
+
 Icons used https://www.behance.net/gallery/Simple-Line-Icons-(Free-PSD-Webfont)/11391127
-Released under CC BY-NC-SA 3.0 license http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Released under (CC BY-NC-SA 3.0 license http://creativecommons.org/licenses/by-nc-sa/3.0/)
