@@ -3,6 +3,12 @@ websitepanel-metro-theme
 
 Metro theme for [WebsitePanel 2.x](http://www.websitepanel.net/) - an open source IIS Control Panel for Hosting providers.
 
+Screenshots
+-----
+![](http://img.hr/aaft)
+![](http://img.hr/aafu)
+*uploaded with http://img.hr - the simplest image uploader ever!
+
 Changelog
 -----
 Version 0.6 (08.07.2014.)
@@ -42,8 +48,16 @@ Don't worry, Metro theme will always be free - but I do need your support in ord
 
 Copyright?
 -----
+<<<<<<< HEAD
 Theme author: Matija Matecic (http://www.coax.hr, http://hr.linkedin.com/in/matijamatecic)
 
 Icons used: https://www.behance.net/gallery/Simple-Line-Icons-(Free-PSD-Webfont)/11391127
 
 Released under CC BY-NC-SA 3.0 license [![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+=======
+Theme author http://www.coax.hr
+
+Icons used https://www.behance.net/gallery/Simple-Line-Icons-(Free-PSD-Webfont)/11391127
+
+Released under CC BY-NC-SA 3.0 license [![](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+>>>>>>> origin/master
