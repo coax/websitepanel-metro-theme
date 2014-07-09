@@ -5,6 +5,12 @@ Metro theme for [WebsitePanel 2.x](http://www.websitepanel.net/) - an open sourc
 
 Changelog
 -----
+Version 0.7 (09.07.2014.)
+- more Metro icons added
+- File Manager redesigned
+- hosting spaces icons hoverable area fixed
+- minor layout fixes
+
 Version 0.6 (08.07.2014.)
 - added more Metro style icons
 - added ":disabled" styles to buttons

@@ -1,6 +1,6 @@
 /*
   Metro theme for WebsitePanel 2.x (http://www.coax.hr)
-  Version 0.6
+  Version 0.7
 */
 
 .foo {}
@@ -26,6 +26,9 @@
 .NormalGridView .AspNet-GridView table tbody tr.AspNet-GridView-Alternate td {background:#f9f9f9;}
 .NormalGridView .AspNet-GridView table tbody tr.AspNet-GridView-Selected td {}
 .NormalGridView .AspNet-GridView table tfoot tr td {}
+
+/* new */
+table.filemanager td {padding:0 !important;}
 
 /* not modified */
 .NormalGridView .AspNet-GridView table thead.Centered th{text-align: center;}
