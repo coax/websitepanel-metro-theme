@@ -5,6 +5,9 @@ Metro theme for [WebsitePanel 2.x](http://www.websitepanel.net/) - an open sourc
 
 Changelog
 -----
+Version 0.8 (15.07.2014.)
+- top menu layout fixed in older WSP 2.x versions
+
 Version 0.7 (09.07.2014.)
 - more Metro icons added
 - File Manager redesigned
