@@ -1,4 +1,4 @@
-Update: WebsitePanel is dead, and this project is no longer maintained. Check out the new SolidCP(https://solidcp.com/)
+Update: WebsitePanel is dead, and this project is no longer maintained. Check out the new [SolidCP](https://solidcp.com/)
 
 websitepanel-metro-theme
 ========================
