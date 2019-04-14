@@ -1,3 +1,5 @@
+Update: WebsitePanel is dead, and this project is no longer maintained. Check out the new SolidCP(https://solidcp.com/)
+
 websitepanel-metro-theme
 ========================
 
@@ -22,12 +24,6 @@ Version 0.6 (08.07.2014.)
 Version 0.5 (04.07.2014.)
 - Initial release
 
-Screenshots
------
-![](http://img.hr/aaft)
-![](http://img.hr/aafu)
-*uploaded with http://img.hr - the simplest image uploader ever!
-
 How to
 -----
 Ready to install this theme in your WebsitePanel? Firstly, make note this project is under development, so not all pages are redesigned. Secondly, you'll need modern browser IE 11+, Firefox, Chrome or Opera to display CSS3 properly.
@@ -43,15 +39,9 @@ Feel free to ask any question or report bug via GitHub Issues. I'll try to answe
 
 If you want to help me with this project, simply fork it and let me know ;)
 
-Donate
------
-Don't worry, Metro theme will always be free - but I do need your support in order to continue to develop it! Thank you :)
-
-[![PayPal donate button](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=WNPTPVJ6QK8H8&lc=HR&item_name=Donation%20to%20developer&currency_code=USD&amount=5%2e00)
-
 Copyright?
 -----
-Theme author: Matija Matecic (http://www.coax.hr, http://hr.linkedin.com/in/matijamatecic)
+Theme author: Matija Matecic(http://hr.linkedin.com/in/matijamatecic)
 
 Icons used: https://www.behance.net/gallery/Simple-Line-Icons-(Free-PSD-Webfont)/11391127
 
